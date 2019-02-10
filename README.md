@@ -17,3 +17,4 @@ Dependencies used for this App
     "validator": "^10.11.0"
   }
 
+# Use Post Man to check the application
